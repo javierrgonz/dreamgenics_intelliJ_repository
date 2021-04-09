@@ -570,7 +570,6 @@
     </option>
     <option name="INFO_ATTRIBUTES">
       <value>
-        <option name="EFFECT_COLOR" value="aeae80" />
         <option name="ERROR_STRIPE_COLOR" value="ffff83" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
@@ -816,8 +815,8 @@
     </option>
     <option name="WARNING_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="52503a" />
-        <option name="ERROR_STRIPE_COLOR" value="ffff83" />
+        <option name="EFFECT_COLOR" value="666626" />
+        <option name="ERROR_STRIPE_COLOR" value="96964b" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
@@ -836,6 +835,9 @@
     <option name="WRONG_REFERENCES_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="bc3f3c" />
+        <option name="FONT_TYPE" value="1" />
+        <option name="EFFECT_COLOR" value="fd0002" />
+        <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
   </attributes>
