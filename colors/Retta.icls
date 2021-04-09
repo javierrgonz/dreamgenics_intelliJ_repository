@@ -3,7 +3,7 @@
     <option name="ADDED_LINES_COLOR" value="295622" />
     <option name="CARET_COLOR" value="a1a5ac" />
     <option name="CARET_ROW_COLOR" value="2a2a2a" />
-    <option name="CONSOLE_BACKGROUND_KEY" value="0" />
+    <option name="CONSOLE_BACKGROUND_KEY" value="" />
     <option name="FILESTATUS_ADDED" value="629755" />
     <option name="FILESTATUS_DELETED" value="6c6c6c" />
     <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="6c6c6c" />
@@ -110,9 +110,24 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
+    <option name="CONSOLE_BLACK_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="0" />
+      </value>
+    </option>
+    <option name="CONSOLE_BLUE_BRIGHT_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="2d61f0" />
+      </value>
+    </option>
     <option name="CONSOLE_BLUE_OUTPUT">
       <value>
         <option name="FOREGROUND" value="5394ec" />
+      </value>
+    </option>
+    <option name="CONSOLE_CYAN_BRIGHT_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="15c1c1" />
       </value>
     </option>
     <option name="CONSOLE_CYAN_OUTPUT">
@@ -120,10 +135,34 @@
         <option name="FOREGROUND" value="6969" />
       </value>
     </option>
+    <option name="CONSOLE_DARKGRAY_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="656565" />
+      </value>
+    </option>
     <option name="CONSOLE_ERROR_OUTPUT">
       <value>
         <option name="FOREGROUND" value="d6c248" />
-        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="CONSOLE_GRAY_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="929292" />
+      </value>
+    </option>
+    <option name="CONSOLE_GREEN_BRIGHT_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="16b42c" />
+      </value>
+    </option>
+    <option name="CONSOLE_GREEN_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="67d17" />
+      </value>
+    </option>
+    <option name="CONSOLE_MAGENTA_BRIGHT_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="e617e6" />
       </value>
     </option>
     <option name="CONSOLE_MAGENTA_OUTPUT">
@@ -134,7 +173,11 @@
     <option name="CONSOLE_NORMAL_OUTPUT">
       <value>
         <option name="FOREGROUND" value="f8e1aa" />
-        <option name="BACKGROUND" value="0" />
+      </value>
+    </option>
+    <option name="CONSOLE_RED_BRIGHT_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="ff1616" />
       </value>
     </option>
     <option name="CONSOLE_RED_OUTPUT">
@@ -143,15 +186,27 @@
       </value>
     </option>
     <option name="CONSOLE_SYSTEM_OUTPUT">
-      <value>
-        <option name="FOREGROUND" value="d6c248" />
-        <option name="FONT_TYPE" value="1" />
-      </value>
+      <value />
     </option>
     <option name="CONSOLE_USER_INPUT">
       <value>
         <option name="FOREGROUND" value="83786e" />
         <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="CONSOLE_WHITE_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="ffffff" />
+      </value>
+    </option>
+    <option name="CONSOLE_YELLOW_BRIGHT_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="ecc32c" />
+      </value>
+    </option>
+    <option name="CONSOLE_YELLOW_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="b28c00" />
       </value>
     </option>
     <option name="CONSTRUCTOR_CALL_ATTRIBUTES">
@@ -168,7 +223,7 @@
       <value>
         <option name="FOREGROUND" value="287bde" />
         <option name="EFFECT_COLOR" value="287bde" />
-        <option name="EFFECT_TYPE" value="1" />
+        <option name="EFFECT_TYPE" value="-1" />
       </value>
     </option>
     <option name="CUSTOM_INVALID_STRING_ESCAPE_ATTRIBUTES">
