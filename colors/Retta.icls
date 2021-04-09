@@ -681,9 +681,7 @@
       <value />
     </option>
     <option name="LOCAL_VARIABLE_ATTRIBUTES">
-      <value>
-        <option name="FOREGROUND" value="ffcc52" />
-      </value>
+      <value />
     </option>
     <option name="LOG_ERROR_OUTPUT">
       <value>
@@ -894,6 +892,16 @@
         <option name="FONT_TYPE" value="1" />
         <option name="EFFECT_COLOR" value="fd0002" />
         <option name="EFFECT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="XML_ATTRIBUTE_VALUE">
+      <value>
+        <option name="FOREGROUND" value="d6c248" />
+      </value>
+    </option>
+    <option name="YAML_ANCHOR">
+      <value>
+        <option name="FOREGROUND" value="9696ff" />
       </value>
     </option>
   </attributes>
