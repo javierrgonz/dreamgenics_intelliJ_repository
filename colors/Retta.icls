@@ -787,6 +787,46 @@
         <option name="ERROR_STRIPE_COLOR" value="5e5c56" />
       </value>
     </option>
+    <option name="SONARLINT_BLOCKER">
+      <value>
+        <option name="EFFECT_COLOR" value="367aff" />
+        <option name="ERROR_STRIPE_COLOR" value="367aff" />
+        <option name="EFFECT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="SONARLINT_CRITICAL">
+      <value>
+        <option name="EFFECT_COLOR" value="367aff" />
+        <option name="ERROR_STRIPE_COLOR" value="367aff" />
+        <option name="EFFECT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="SONARLINT_INFO">
+      <value>
+        <option name="EFFECT_COLOR" value="367aff" />
+        <option name="ERROR_STRIPE_COLOR" value="367aff" />
+        <option name="EFFECT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="SONARLINT_MAJOR">
+      <value>
+        <option name="EFFECT_COLOR" value="367aff" />
+        <option name="ERROR_STRIPE_COLOR" value="367aff" />
+        <option name="EFFECT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="SONARLINT_MINOR">
+      <value>
+        <option name="EFFECT_COLOR" value="367aff" />
+        <option name="ERROR_STRIPE_COLOR" value="367aff" />
+        <option name="EFFECT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="SONARLINT_SELECTED">
+      <value>
+        <option name="BACKGROUND" value="367aff" />
+      </value>
+    </option>
     <option name="SQUARE_BRACKETS_RAINBOW_COLOR0">
       <value>
         <option name="FOREGROUND" value="ffffff" />
