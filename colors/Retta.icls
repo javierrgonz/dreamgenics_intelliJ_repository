@@ -1,7 +1,7 @@
 <scheme name="Retta" version="142" parent_scheme="Default">
   <colors>
     <option name="ADDED_LINES_COLOR" value="295622" />
-    <option name="CARET_COLOR" value="acacac" />
+    <option name="CARET_COLOR" value="a1a5ac" />
     <option name="CARET_ROW_COLOR" value="2a2a2a" />
     <option name="CONSOLE_BACKGROUND_KEY" value="" />
     <option name="DOCUMENTATION_COLOR" value="3c3f41" />
@@ -37,7 +37,6 @@
     <option name="SELECTION_FOREGROUND" value="" />
     <option name="TEARLINE_COLOR" value="767777" />
     <option name="TOOLTIP" value="" />
-    <option name="VISUAL_INDENT_GUIDE" value="484848" />
     <option name="WHITESPACES" value="505050" />
   </colors>
   <attributes>
@@ -863,7 +862,7 @@
     </option>
     <option name="TEXT">
       <value>
-        <option name="FOREGROUND" value="484848" />
+        <option name="FOREGROUND" value="f8e1aa" />
         <option name="BACKGROUND" value="2b2b2b" />
       </value>
     </option>
