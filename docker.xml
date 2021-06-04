@@ -4,4 +4,7 @@
     <option name="dockerMachinePath" value="/usr/local/bin/docker-compose" />
     <option name="dockerPath" value="/usr/bin/docker" />
   </component>
+  <component name="DockerTreeFilter">
+    <option name="myStoppedContainersHidden" value="true" />
+  </component>
 </application>
