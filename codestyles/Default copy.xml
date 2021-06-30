@@ -46,6 +46,7 @@
   </JavaCodeStyleSettings>
   <codeStyleSettings language="JAVA">
     <option name="RIGHT_MARGIN" value="100" />
+    <option name="KEEP_LINE_BREAKS" value="false" />
     <option name="BLANK_LINES_BEFORE_PACKAGE" value="1" />
     <option name="SPACE_BEFORE_ARRAY_INITIALIZER_LBRACE" value="true" />
     <option name="CALL_PARAMETERS_WRAP" value="1" />
@@ -75,5 +76,8 @@
       <option name="CONTINUATION_INDENT_SIZE" value="4" />
       <option name="TAB_SIZE" value="2" />
     </indentOptions>
+  </codeStyleSettings>
+  <codeStyleSettings language="yaml">
+    <option name="KEEP_LINE_BREAKS" value="false" />
   </codeStyleSettings>
 </code_scheme>
