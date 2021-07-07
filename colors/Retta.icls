@@ -294,6 +294,19 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
+    <option name="DEBUGGER_SMART_STEP_INTO_SELECTION">
+      <value>
+        <option name="FOREGROUND" value="0" />
+        <option name="BACKGROUND" value="5f4765" />
+        <option name="EFFECT_COLOR" value="cc29cc" />
+      </value>
+    </option>
+    <option name="DEBUGGER_SMART_STEP_INTO_TARGET">
+      <value>
+        <option name="FOREGROUND" value="0" />
+        <option name="BACKGROUND" value="524c5c" />
+      </value>
+    </option>
     <option name="DEFAULT_ATTRIBUTE">
       <value>
         <option name="FOREGROUND" value="bfa4a4" />
@@ -572,6 +585,16 @@
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
+    <option name="EVALUATED_EXPRESSION_ATTRIBUTES">
+      <value>
+        <option name="BACKGROUND" value="0" />
+      </value>
+    </option>
+    <option name="EVALUATED_EXPRESSION_EXECUTION_LINE_ATTRIBUTES">
+      <value>
+        <option name="BACKGROUND" value="0" />
+      </value>
+    </option>
     <option name="EXECUTIONPOINT_ATTRIBUTES">
       <value>
         <option name="EFFECT_COLOR" value="1bb561" />
@@ -731,6 +754,11 @@
     <option name="METHOD_DECLARATION_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="a4b0c0" />
+      </value>
+    </option>
+    <option name="NOT_TOP_FRAME_ATTRIBUTES">
+      <value>
+        <option name="BACKGROUND" value="0" />
       </value>
     </option>
     <option name="NOT_USED_ELEMENT_ATTRIBUTES">
