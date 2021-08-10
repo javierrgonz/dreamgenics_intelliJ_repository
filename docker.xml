@@ -1,6 +1,5 @@
 <application>
   <component name="ComposeFilesSynchronizedWithServiceView">
-    <option value="file://$USER_HOME$/dev/git_dreamgenics/GenomeOne_Cloud/docker/manifests/docker-compose/docker-compose-local.yaml" />
     <option value="file://$USER_HOME$/dev/git_dreamgenics/GenomeOne_Cloud/docker/manifests/docker-compose/docker-compose-remote.yaml" />
   </component>
   <component name="DockerSettings">
