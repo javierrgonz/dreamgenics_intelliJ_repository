@@ -3,5 +3,6 @@
     <option name="autoscrollToSource" value="true" />
     <option name="compactDirectories" value="true" />
     <option name="flattenModules" value="true" />
+    <option name="showMembers" value="true" />
   </component>
 </application>
