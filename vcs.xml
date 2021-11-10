@@ -18,6 +18,14 @@
           <option name="url" value="ssh://javi@dgcoderepository.dreamgenics.local/git_repo/DG_Web.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="ssh://dgcoderepository.dreamgenics.local:/git_repo/Miscellaneous.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="ssh://javi@dgcoderepository.dreamgenics.local:/git_repo/Miscellaneous.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/dev/git_dreamgenics" />
