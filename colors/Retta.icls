@@ -1,10 +1,11 @@
 <scheme name="Retta" version="142" parent_scheme="Default">
   <colors>
     <option name="ADDED_LINES_COLOR" value="295622" />
-    <option name="CARET_COLOR" value="a1a5ac" />
+    <option name="CARET_COLOR" value="c2cccc" />
     <option name="CARET_ROW_COLOR" value="2a2a2a" />
     <option name="CONSOLE_BACKGROUND_KEY" value="" />
     <option name="DOCUMENTATION_COLOR" value="3c3f41" />
+    <option name="ERROR_HINT" value="3d3d3d" />
     <option name="FILESTATUS_ADDED" value="629755" />
     <option name="FILESTATUS_DELETED" value="6c6c6c" />
     <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="6c6c6c" />
@@ -26,9 +27,11 @@
     <option name="INLINE_REFACTORING_SETTINGS_FOCUSED" value="" />
     <option name="INLINE_REFACTORING_SETTINGS_HOVERED" value="" />
     <option name="LINE_NUMBERS_COLOR" value="6b6b6b" />
+    <option name="LOOKUP_COLOR" value="3d3d3d" />
     <option name="METHOD_SEPARATORS_COLOR" value="2a2a2a" />
     <option name="MODIFIED_LINES_COLOR" value="415f69" />
-    <option name="NOTIFICATION_BACKGROUND" value="e7e9ec" />
+    <option name="NOTIFICATION_BACKGROUND" value="454648" />
+    <option name="RECENT_LOCATIONS_SELECTION" value="383333" />
     <option name="RECURSIVE_CALL_ATTRIBUTES" value="574300" />
     <option name="RIGHT_MARGIN_COLOR" value="323232" />
     <option name="SELECTED_INDENT_GUIDE" value="f8e1aa" />
@@ -294,6 +297,101 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
+    <option name="DBNavigator.TextAttributes.DataEditor.CaretRow">
+      <value>
+        <option name="FOREGROUND" value="ffffff" />
+        <option name="BACKGROUND" value="3d3d3d" />
+      </value>
+    </option>
+    <option name="DBNavigator.TextAttributes.DataEditor.DeletedData">
+      <value>
+        <option name="FOREGROUND" value="7f7f7f" />
+        <option name="BACKGROUND" value="3d3d3d" />
+      </value>
+    </option>
+    <option name="DBNavigator.TextAttributes.DataEditor.ErrorData">
+      <value>
+        <option name="FOREGROUND" value="ffffff" />
+        <option name="BACKGROUND" value="730000" />
+      </value>
+    </option>
+    <option name="DBNavigator.TextAttributes.DataEditor.ForeignKey">
+      <value>
+        <option name="FOREGROUND" value="3f6b3f" />
+        <option name="BACKGROUND" value="3d3d3d" />
+      </value>
+    </option>
+    <option name="DBNavigator.TextAttributes.DataEditor.LoadingData">
+      <value>
+        <option name="FOREGROUND" value="7f7f7f" />
+        <option name="BACKGROUND" value="3d3d3d" />
+      </value>
+    </option>
+    <option name="DBNavigator.TextAttributes.DataEditor.PlainData">
+      <value>
+        <option name="BACKGROUND" value="3d3d3d" />
+      </value>
+    </option>
+    <option name="DBNavigator.TextAttributes.DataEditor.PrimaryKey">
+      <value>
+        <option name="FOREGROUND" value="4569a7" />
+        <option name="BACKGROUND" value="3d3d3d" />
+      </value>
+    </option>
+    <option name="DBNavigator.TextAttributes.DataEditor.ReadonlyData">
+      <value>
+        <option name="FOREGROUND" value="7f7f7f" />
+        <option name="BACKGROUND" value="3d3d3d" />
+      </value>
+    </option>
+    <option name="DBNavigator.TextAttributes.DataEditor.TrackingData">
+      <value>
+        <option name="FOREGROUND" value="c4c4c4" />
+        <option name="BACKGROUND" value="3d3d3d" />
+      </value>
+    </option>
+    <option name="DBNavigator.TextAttributes.SessionBrowser.ActiveSession">
+      <value>
+        <option name="BACKGROUND" value="3d3d3d" />
+      </value>
+    </option>
+    <option name="DBNavigator.TextAttributes.SessionBrowser.CachedSession">
+      <value>
+        <option name="FOREGROUND" value="3f6b3f" />
+        <option name="BACKGROUND" value="3d3d3d" />
+      </value>
+    </option>
+    <option name="DBNavigator.TextAttributes.SessionBrowser.InactiveSession">
+      <value>
+        <option name="FOREGROUND" value="7f7f7f" />
+        <option name="BACKGROUND" value="3d3d3d" />
+      </value>
+    </option>
+    <option name="DBNavigator.TextAttributes.SessionBrowser.KilledSession">
+      <value>
+        <option name="FOREGROUND" value="a96458" />
+        <option name="BACKGROUND" value="3d3d3d" />
+      </value>
+    </option>
+    <option name="DBNavigator.TextAttributes.SessionBrowser.SnipedSession">
+      <value>
+        <option name="FOREGROUND" value="4569a7" />
+        <option name="BACKGROUND" value="3d3d3d" />
+      </value>
+    </option>
+    <option name="DEBUGGER_SMART_STEP_INTO_SELECTION">
+      <value>
+        <option name="FOREGROUND" value="0" />
+        <option name="BACKGROUND" value="5f4765" />
+        <option name="EFFECT_COLOR" value="cc29cc" />
+      </value>
+    </option>
+    <option name="DEBUGGER_SMART_STEP_INTO_TARGET">
+      <value>
+        <option name="FOREGROUND" value="0" />
+        <option name="BACKGROUND" value="524c5c" />
+      </value>
+    </option>
     <option name="DEFAULT_ATTRIBUTE">
       <value>
         <option name="FOREGROUND" value="bfa4a4" />
@@ -514,7 +612,7 @@
     </option>
     <option name="DELETED_TEXT_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="0" />
+        <option name="FOREGROUND" value="393d3d" />
         <option name="BACKGROUND" value="f8e1aa" />
       </value>
     </option>
@@ -570,6 +668,16 @@
         <option name="EFFECT_COLOR" value="bc3f3c" />
         <option name="ERROR_STRIPE_COLOR" value="bc3f3c" />
         <option name="EFFECT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="EVALUATED_EXPRESSION_ATTRIBUTES">
+      <value>
+        <option name="BACKGROUND" value="0" />
+      </value>
+    </option>
+    <option name="EVALUATED_EXPRESSION_EXECUTION_LINE_ATTRIBUTES">
+      <value>
+        <option name="BACKGROUND" value="0" />
       </value>
     </option>
     <option name="EXECUTIONPOINT_ATTRIBUTES">
@@ -731,6 +839,11 @@
     <option name="METHOD_DECLARATION_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="a4b0c0" />
+      </value>
+    </option>
+    <option name="NOT_TOP_FRAME_ATTRIBUTES">
+      <value>
+        <option name="BACKGROUND" value="0" />
       </value>
     </option>
     <option name="NOT_USED_ELEMENT_ATTRIBUTES">
