@@ -30,9 +30,13 @@
           <option name="url" value="ssh://javi@dgcoderepository.dreamgenics.local/git_repo/GenomeOne.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="ssh://javi@dgcoderepository.dreamgenics.local/git_repo/DG_Common.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$" />
+    <option name="cloneParentDir" value="$USER_HOME$/dev/git_dreamgenics" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="SHOW_TAG_NAMES" value="true" />
