@@ -6,6 +6,7 @@
       <mapping pattern="TODO_DBDataUpdater" type="AUTO_DETECTED" />
       <mapping pattern="TODO_VariantReviewDbMeger" type="AUTO_DETECTED" />
       <mapping pattern="headerswithviewindexwildcard.json" type="AUTO_DETECTED" />
+      <mapping ext="crt" type="PLAIN_TEXT" />
       <mapping ext="ftl" type="PLAIN_TEXT" />
       <mapping ext="gz" type="PLAIN_TEXT" />
       <mapping ext="mockmacker" type="PLAIN_TEXT" />
